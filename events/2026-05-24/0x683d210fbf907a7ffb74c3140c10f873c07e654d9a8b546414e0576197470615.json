@@ -1,0 +1,45 @@
+{
+  "name": "CPEG Rare - 0xd9d9e0",
+  "description": "CPEG NFT event: downgrade for holder 0xd9d9e08fb2231fc5afecacab03c4bb2422e6cb0d",
+  "image": "./0x683d210fbf907a7ffb74c3140c10f873c07e654d9a8b546414e0576197470615.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "3"
+    },
+    {
+      "trait_type": "Tier Name",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Event Type",
+      "value": "downgrade"
+    },
+    {
+      "trait_type": "Old Tier",
+      "value": "5"
+    },
+    {
+      "trait_type": "Holder",
+      "value": "0xd9d9e08fb2231fc5afecacab03c4bb2422e6cb0d"
+    },
+    {
+      "trait_type": "Block",
+      "value": "41940167"
+    },
+    {
+      "trait_type": "Tx Hash",
+      "value": "0x683d210fbf907a7ffb74c3140c10f873c07e654d9a8b546414e0576197470615"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2026-05-24"
+    }
+  ],
+  "tx_hash": "0x683d210fbf907a7ffb74c3140c10f873c07e654d9a8b546414e0576197470615",
+  "block_number": 41940167,
+  "holder": "0xd9d9e08fb2231fc5afecacab03c4bb2422e6cb0d",
+  "event_type": "downgrade",
+  "old_tier": 5,
+  "new_tier": 3
+}
