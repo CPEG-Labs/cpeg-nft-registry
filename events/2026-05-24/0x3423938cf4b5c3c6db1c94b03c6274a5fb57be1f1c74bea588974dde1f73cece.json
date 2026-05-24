@@ -1,0 +1,45 @@
+{
+  "name": "CPEG Legendary - 0xd9d9e0",
+  "description": "CPEG NFT event: upgrade for holder 0xd9d9e08fb2231fc5afecacab03c4bb2422e6cb0d",
+  "image": "./0x3423938cf4b5c3c6db1c94b03c6274a5fb57be1f1c74bea588974dde1f73cece.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "5"
+    },
+    {
+      "trait_type": "Tier Name",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Event Type",
+      "value": "upgrade"
+    },
+    {
+      "trait_type": "Old Tier",
+      "value": "4"
+    },
+    {
+      "trait_type": "Holder",
+      "value": "0xd9d9e08fb2231fc5afecacab03c4bb2422e6cb0d"
+    },
+    {
+      "trait_type": "Block",
+      "value": "41940159"
+    },
+    {
+      "trait_type": "Tx Hash",
+      "value": "0x3423938cf4b5c3c6db1c94b03c6274a5fb57be1f1c74bea588974dde1f73cece"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2026-05-24"
+    }
+  ],
+  "tx_hash": "0x3423938cf4b5c3c6db1c94b03c6274a5fb57be1f1c74bea588974dde1f73cece",
+  "block_number": 41940159,
+  "holder": "0xd9d9e08fb2231fc5afecacab03c4bb2422e6cb0d",
+  "event_type": "upgrade",
+  "old_tier": 4,
+  "new_tier": 5
+}
