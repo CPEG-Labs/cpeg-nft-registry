@@ -1,0 +1,45 @@
+{
+  "name": "CPEG Tier0 - 0xd9d9e0",
+  "description": "CPEG NFT event: burn for holder 0xd9d9e08fb2231fc5afecacab03c4bb2422e6cb0d",
+  "image": "./0x42c1a16461f2e4cb2f6b74fea7bbcc23493c738c571133e3b2772db8196475b6.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "0"
+    },
+    {
+      "trait_type": "Tier Name",
+      "value": "Tier0"
+    },
+    {
+      "trait_type": "Event Type",
+      "value": "burn"
+    },
+    {
+      "trait_type": "Old Tier",
+      "value": "1"
+    },
+    {
+      "trait_type": "Holder",
+      "value": "0xd9d9e08fb2231fc5afecacab03c4bb2422e6cb0d"
+    },
+    {
+      "trait_type": "Block",
+      "value": "41940172"
+    },
+    {
+      "trait_type": "Tx Hash",
+      "value": "0x42c1a16461f2e4cb2f6b74fea7bbcc23493c738c571133e3b2772db8196475b6"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2026-05-24"
+    }
+  ],
+  "tx_hash": "0x42c1a16461f2e4cb2f6b74fea7bbcc23493c738c571133e3b2772db8196475b6",
+  "block_number": 41940172,
+  "holder": "0xd9d9e08fb2231fc5afecacab03c4bb2422e6cb0d",
+  "event_type": "burn",
+  "old_tier": 1,
+  "new_tier": 0
+}
